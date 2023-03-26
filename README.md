@@ -5,7 +5,9 @@
 
 - 📫 How to reach me mariomoises20008@gmail.com
 
-<h2><b>Technical Skills<b><h2>
+<details>
+<summary><h2><b>Technical Skills<b><h2></summary>
+
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -49,6 +51,8 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+</details>
+ 
 <h3>Connect With Me</h3>
 <a href="https://www.instagram.com/marito_r_t/"><img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Marito | Instagram"/></a>
 <a href="https://www.youtube.com/channel/UCJY5CqVJZsxpFCBE132Wrkw"><img align="left" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Marito | Youtube"/></a>
